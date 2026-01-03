@@ -16,6 +16,7 @@ Task Requirements & Implementation
 
 ---
 🛡️ Kid-Friendly & Safety Features
+
 Safety is the core priority of this "Magic Storybook" application. I have implemented three layers of protection:
 
 Domain Guarding (The "Sweet Refusal"): The bot includes a semantic filter that blocks off-topic queries. If a child asks about modern technology, internet searches, or superheroes like "Batman," the bot provides a gentle, thematic redirection back to the story world.
@@ -26,6 +27,7 @@ Humanized Persona: The AI is tuned with a low temperature (0.1) setting. This en
 
 ---
 🏗️ Technical Architecture
+
 Front-End: Gradio web interface for a clean, accessible, and responsive user experience.
 
 Back-End: Python-based logic handling the grounding and safety filters.
@@ -45,6 +47,7 @@ Access UI: Open http://127.0.0.1:7861 in your browser.
 
 ---
 🧪 Suggested Testing Sequence
+
 To verify the system's performance and accuracy:
 
 Factual: "What was in the basket?" (Tests Retrieval Accuracy)
@@ -56,6 +59,7 @@ Safety: "Can Batman help her?" (Tests Domain Guarding/Kid-Friendly Filter)
 Abstract: "What is the moral of the story?" (Tests Thematic Logic)
 
 ---
+
 
 
 
