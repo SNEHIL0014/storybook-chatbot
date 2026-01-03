@@ -38,12 +38,16 @@ Version Control: Professional repository structure including a .gitignore to exc
 How to Run
 
 Install Dependencies:
+
 pip install gradio torch transformers sentencepiece
 
 Execute Application:
+
 python app.py
 
-Access UI: Open http://127.0.0.1:7861 in your browser.
+Access UI: 
+
+Open http://127.0.0.1:7861 in your browser.
 
 ---
 🧪 Suggested Testing Sequence
@@ -59,6 +63,7 @@ Safety: "Can Batman help her?" (Tests Domain Guarding/Kid-Friendly Filter)
 Abstract: "What is the moral of the story?" (Tests Thematic Logic)
 
 ---
+
 
 
 
