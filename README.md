@@ -68,7 +68,8 @@ You can interact with the StoryBot live (when the server is active) via the Grad
 
 > **Note to Recruiter:** If the link below is expired, please run `python app.py` locally to generate a new 72-hour temporary tunnel.
 
-**[https://b4f258b25f78083668.gradio.live]**
+**[https://0e73702f519671a40d.gradio.live]**
+
 
 
 
