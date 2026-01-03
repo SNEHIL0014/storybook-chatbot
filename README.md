@@ -1,4 +1,4 @@
-Magic Storybook AI: Little Red Riding Hood
+📖 Magic Storybook AI: Little Red Riding Hood
 Developed for Children's Interactive Literacy
 This project is a specialized AI chatbot designed to interact with children based on the story of Little Red Riding Hood. It utilizes Limited Memory Generative AI to provide accurate, safe, and context-aware responses while operating entirely on free, open-source models.
 
@@ -56,5 +56,6 @@ Safety: "Can Batman help her?" (Tests Domain Guarding/Kid-Friendly Filter)
 Abstract: "What is the moral of the story?" (Tests Thematic Logic)
 
 ---
+
 
 
