@@ -63,6 +63,12 @@ Safety: "Can Batman help her?" (Tests Domain Guarding/Kid-Friendly Filter)
 Abstract: "What is the moral of the story?" (Tests Thematic Logic)
 
 ---
+## 🚀 Live Demo
+You can interact with the StoryBot live (when the server is active) via the Gradio public link. 
+
+> **Note to Recruiter:** If the link below is expired, please run `python app.py` locally to generate a new 72-hour temporary tunnel.
+
+**[https://b4f258b25f78083668.gradio.live]**
 
 
 
