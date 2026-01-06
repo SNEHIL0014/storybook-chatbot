@@ -66,9 +66,10 @@ Abstract: "What is the moral of the story?" (Tests Thematic Logic)
 ## 🚀 Live Demo
 You can interact with the StoryBot live (when the server is active) via the Gradio public link. 
 
-> **Note to Recruiter:** If the link below is expired, please run `python app.py` locally to generate a new 72-hour temporary tunnel.
+> **Note to Recruiter:** If the link below has expired, please run `python app.py` locally to generate a new 72-hour temporary tunnel.
 
-**[https://0ccbbacf6f858d5448.gradio.live]**
+**[https://79d1410dd8a675cc6a.gradio.live]**
+
 
 
 
